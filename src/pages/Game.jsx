@@ -4,7 +4,7 @@ import { useLocation, useNavigate } from 'react-router-dom'
 
 import config from '../../config.json'
 
-import logo from '/logo.webp'
+import logo from '../images/logo.webp'
 
 import './Game.css'
 import { Link } from 'react-router-dom'

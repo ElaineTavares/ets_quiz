@@ -1,7 +1,7 @@
 import Card from '../components/Card'
 import Footer from '../components/Footer'
 
-import logo from '/logo.webp'
+import logo from '../images/logo.webp'
 
 import './Home.css'
 import { Link, useNavigate } from 'react-router-dom'
