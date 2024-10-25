@@ -117,9 +117,9 @@ export default function Game() {
         <Link to="/">
                 <img className='home_logo' src={logo} alt="logo do ETS Quiz" />
         </Link>
-        <Card 
-        
-        headerTitle={`Pergunta ${questionNumber} de ${questions.length}`}
+        <Card    
+            headerTitle={`Pergunta ${questionNumber} de ${questions.length}`}
+            altura="530px"
         >
             <section className='card_body'>
                 <h2>Seja Bem-Vindo(a) {playerName}!</h2>

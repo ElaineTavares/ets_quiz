@@ -30,6 +30,7 @@ export default function Home() {
         </Link>
         <Card
           headerTitle="Teste suas habilidades"
+          altura="320px"
         >
           <section className='card_body'>
               <p className='home_p'>
