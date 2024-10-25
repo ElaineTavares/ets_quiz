@@ -1,0 +1,19 @@
+.label_div{
+    cursor: pointer;
+    padding-block: 20px;
+    padding-left: 32px;
+    display: flex;
+    gap: 8px;
+}
+
+.label_div:hover{
+    background-color: var(--primary_color);
+}
+
+.input{
+    display: block;
+}
+
+.input:checked ~ .label_div {
+   background-color: var(--body_color);
+}

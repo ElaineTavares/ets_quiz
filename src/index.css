@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+:root {
+  --primary_color: #CE789D;
+  --bg_color:#B44173; 
+  --font_color: #ffffff;
+  --body_color: #6f6988;
+}
+
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: var(--body_color);
+  padding: 0 10px;
+  background-image: url('logo.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+a{
+  text-decoration: none;
+}
+
+

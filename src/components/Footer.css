@@ -1,0 +1,17 @@
+.footer{
+    color: var(--font_color);
+    font-size: 22px;
+    text-shadow: 6px 6px 6px black;
+    font-weight: bold;
+    margin-top: 30px;
+    text-align: center;
+    /* border-bottom: 4px solid var(--font_color); */
+}
+
+/* @media (min-width: 672px) and (max-width: 990px){
+    .footer {
+        color: var(--bg_color);
+        border-bottom: 4px solid var(--bg_color);
+       
+    }
+} */

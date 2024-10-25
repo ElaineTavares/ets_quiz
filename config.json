@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "title": "O que significa HTML?",
+            "alternatives": [
+                "Hyperlinks and Text Markup Language",
+                "Home Tool Markup Language",
+                "Hyper Text Markup Language",
+                "Hyper Text Main Language"    
+            ],
+            "answer": "2"
+        },
+        {
+            "title": "Qual propriedade CSS é usada para mudar a cor do texto?",
+            "alternatives": [
+                "font-color",
+                "text-style",
+                "color",
+                "background-color"           
+            ],
+            "answer": "2"
+        },
+        {
+            "title": "Como você cria uma função em JavaScript?",
+            "alternatives": [
+                "create function myFunction()",
+                "function = myFunction()",
+                "function myFunction() {}",
+                "myFunction():function"           
+            ],
+            "answer": "2"
+        },
+        {
+            "title": "Qual é a tag correta para inserir uma imagem em HTML?",
+            "alternatives": [
+                "<image src='imagem.jpg' />",
+                "<img href='imagem.jpg' />",
+                "<img src='imagem.jpg' />",
+                "<img link='imagem.jpg' />"           
+            ],
+            "answer": "2"
+        },
+        {
+            "title": "Em CSS, o que significa a unidade 'em'?",
+            "alternatives": [
+                "Pixels relativos à tela",
+                "Proporcional ao elemento pai",
+                "Unidade fixa de 16 pixels",
+                "Porcentagem da largura da tela"           
+            ],
+            "answer": "1"
+        } 
+    ]
+}

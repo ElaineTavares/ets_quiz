@@ -1,0 +1,34 @@
+.card{
+    border: 1px solid var(--primary_color);
+    background-color: var(--bg_color);
+    border-radius: 4px;
+    color: var(--font_color);
+    max-width: 500px;
+    box-shadow: 10px 10px 30px var(--font_color);
+    /* height: 500px; */
+
+}
+
+.card_header{
+    padding: 18px 33px;
+    background-color: var(--primary_color);
+}
+
+.card_header_title{
+    font-size: 18px;  
+}
+
+.card_body{
+    padding: 24px 34px;
+    font-size: 14px;
+}
+
+.card_body h1{
+    font-size: 18px;  
+    margin-bottom: 8px;
+}
+
+
+
+
+
